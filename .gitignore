@@ -1,0 +1,11 @@
+**__pycache__**
+**.ipynb_checkpoints**
+**FITSIndexWriter.provenance.log
+**FollowupParameters_LST.ini
+**.out
+**.png
+**config_*.json
+**.parquet
+**processed_files.txt
+**.pkl
+**intensity_cuts**
