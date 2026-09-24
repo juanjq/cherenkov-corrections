@@ -9,3 +9,19 @@
 **processed_files.txt
 **.pkl
 **intensity_cuts**
+# Not storing plots
+**/plots/*
+*.png
+*.jpg
+# Not storing temporal jupyter files
+**/__pycache__/*
+**/.ipynb_checkpoints/*
+*.log
+**.out
+# Not storing save-state of objects
+**/objects/*
+# Other large files
+**/data/*
+*.h5
+*.pkl
+*.npz
